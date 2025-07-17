@@ -38,7 +38,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://vercel.com/rajgupta807633-gmailcoms-projects/v0-custom-portfolio-builder)**
+**[View Live Application](https://v0-custom-portfolio-builder-5brrzspym.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
